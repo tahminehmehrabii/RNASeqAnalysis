@@ -1,4 +1,4 @@
-PRJNA1168038
+PRJNA1168038: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA1168038&o=acc_s%3Aa
 SRR30861169_2.fastq.gz
 SRR30861166_2.fastq.gz
 SRR30861168_2.fastq.gz
