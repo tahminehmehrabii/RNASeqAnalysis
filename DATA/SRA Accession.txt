@@ -1,1 +1,1 @@
-PRJNA1168038: https://www.ebi.ac.uk/ena/browser/view/PRJNA1168038
+PRJNA1168038: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA1168038&o=acc_s%3Aa
