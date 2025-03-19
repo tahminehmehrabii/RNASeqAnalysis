@@ -1,2 +1,2 @@
 PRJNA1168038 - ENA Browser 
-(https://www.ebi.ac.uk/ena/browser/view/PRJNA1168038)
+https://www.ebi.ac.uk/ena/browser/view/PRJNA1168038
