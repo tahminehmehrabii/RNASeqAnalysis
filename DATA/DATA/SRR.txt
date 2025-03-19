@@ -1,0 +1,12 @@
+SRR30861169_2.fastq.gz
+SRR30861166_2.fastq.gz
+SRR30861168_2.fastq.gz
+SRR30861167_1.fastq.gz
+SRR30861170_1.fastq.gz
+SRR30861171_2.fastq.gz
+SRR30861170_2.fastq.gz
+SRR30861168_1.fastq.gz
+SRR30861167_2.fastq.gz
+SRR30861166_1.fastq.gz
+SRR30861171_1.fastq.gz
+SRR30861169_1.fastq.gz
