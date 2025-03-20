@@ -2,8 +2,8 @@
 
 This RNA-Seq pipeline is designed to process, analyze, and quantify gene expression data efficiently. The key objectives of this pipeline are as follows:
 
-1: Project Organization:
- Establish a structured directory to manage raw data, processed files, and results systematically.
+1: Data Collection:
+RNA-Seq analysis begins with the collection of raw data, typically consisting of FASTQ files that contain sequencing reads obtained from RNA samples.
 
 2: Quality Control: 
 Use tools like FastQC and MultiQC to assess the quality of raw sequencing data and summarize potential issues such as low-quality reads or adapter contamination.
