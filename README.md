@@ -17,7 +17,7 @@ Use tools like FastQC and MultiQC to assess the quality of raw sequencing data a
 
 # Required software
 
-1. Ubuntu(version 2)
+1. Ubuntu (version 2)
 2. java (version 17.0.12)
 3. Visual Studio Code (version 1.97.2)
 4. 
