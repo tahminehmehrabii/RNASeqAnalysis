@@ -14,3 +14,9 @@ Use tools like FastQC and MultiQC to assess the quality of raw sequencing data a
 4: Gene Annotation & Feature Counting: Incorporate genomic annotation data to link sequencing reads to known gene features and use FeatureCounts to quantify gene expression by counting reads mapped to exons and assigning them to corresponding gene IDs.
 
 5: Gene Expression Data Processing: Ensuring high-quality, normalized data for downstream analyses like differential expression and pathway enrichment studies.
+
+# Required software
+
+1. Ubuntu(version 2)
+2. java ( version 17.0.12)
+3. 
