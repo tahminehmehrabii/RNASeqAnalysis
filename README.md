@@ -1,4 +1,4 @@
-# RNA-Seq Analysis of Drug-Resistant PANC1 Cells on Linux
+# Linux-Based RNA-Seq of Drug-Resistant PANC1 Cells
 
 Differential gene expression in oxaliplatin-resistant versus untreated PANC1 cells was also analyzed to identify potential biomarkers associated with drug resistance. This RNA-Seq pipeline is designed to process, analyze, and quantify gene expression data efficiently. Most steps were performed using the Linux operating system (as noted in script comments), except for the final stage. The key objectives of this pipeline are as follows:
 
