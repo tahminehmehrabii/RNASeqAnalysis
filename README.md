@@ -21,4 +21,4 @@ Use tools like FastQC and MultiQC to assess the quality of raw sequencing data a
 2. java (version 17.0.12)
 3. Visual Studio Code (version 1.97.2)
 4. HISAT2 (version 2.2.1)
-5. 
+5. FastQC (version 0.12.1)
