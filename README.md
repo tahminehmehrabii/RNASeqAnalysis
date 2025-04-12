@@ -1,6 +1,7 @@
 # RNA-Seq Pipeline on Linux
 
-This RNA-Seq pipeline is designed to process, analyze, and quantify gene expression data efficiently. Most steps were performed using the Linux operating system (as noted in script comments), except for the final stage. The key objectives of this pipeline are as follows:
+Differential gene expression in oxaliplatin-resistant versus untreated PANC1 cells was also analyzed to identify potential biomarkers associated with drug resistance. This RNA-Seq pipeline is designed to process, analyze, and quantify gene expression data efficiently. Most steps were performed using the Linux operating system (as noted in script comments), except for the final stage. The key objectives of this pipeline are as follows:
+
 
 1: Data Collection:
 RNA-Seq analysis begins with the collection of raw data, typically consisting of FASTQ files that contain sequencing reads obtained from RNA samples.
