@@ -1,2 +1,0 @@
-[2025-01-19 09:55:42,756] multiqc.core.file_search                           [INFO   ]  Search path: /home/tahmineh/RNASeq_PROJECT/fastqc-results
-[2025-01-19 09:55:43,571] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 12 reports
