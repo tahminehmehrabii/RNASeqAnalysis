@@ -1,6 +1,6 @@
 # RNA-Seq-Pipeline
 
-This RNA-Seq pipeline is designed to process, analyze, and quantify gene expression data efficiently. The key objectives of this pipeline are as follows:
+This RNA-Seq pipeline is designed to process, analyze, and quantify gene expression data efficiently. Some steps were performed using the Linux operating system (as noted in script comments). The key objectives of this pipeline are as follows:
 
 1: Data Collection:
 RNA-Seq analysis begins with the collection of raw data, typically consisting of FASTQ files that contain sequencing reads obtained from RNA samples.
