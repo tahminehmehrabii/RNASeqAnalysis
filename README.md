@@ -26,5 +26,11 @@ Use tools like FastQC and MultiQC to assess the quality of raw sequencing data a
 7. SAMtools (version 1.21)
 8. FeatureCounts (version 2.1.0)
 9. DESeq2 (version 1.46.0)
+10. biomaRt (version 2.62.1)
+11. ggplot2 (version 3.5.1)
+12. pheatmap (version 1.0.12)
+13. RColorBrewer (version 1.1.3)
+14. EnhancedVolcano (version 1.24.0)
+15. tidyverse (version 2.0.0)
 
 
