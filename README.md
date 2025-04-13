@@ -1,4 +1,4 @@
-# RNA-Seq Analysis of Drug-Resistant PANC1 Cells on Linux
+![image](https://github.com/user-attachments/assets/1c28e5b7-ebf9-456a-9fe6-38c6f15c60d2)# RNA-Seq Analysis of Drug-Resistant PANC1 Cells on Linux
 
 Differential gene expression in oxaliplatin-resistant versus untreated PANC1 cells was also analyzed to identify potential biomarkers associated with drug resistance. This RNA-Seq pipeline is designed to process, analyze, and quantify gene expression data efficiently. Most steps were performed using the Linux operating system (as noted in script comments), except for the final stage. The key objectives of this pipeline are as follows:
 
@@ -24,4 +24,6 @@ Use tools like FastQC and MultiQC to assess the quality of raw sequencing data a
 5. MultiQC (version 1.18)
 6. HISAT2 (version 2.2.1)
 7. SAMtools (version 1.21)
+8. Feature Counts (version 2.1.0)
+
 
