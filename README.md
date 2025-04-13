@@ -24,6 +24,6 @@ Use tools like FastQC and MultiQC to assess the quality of raw sequencing data a
 5. MultiQC (version 1.18)
 6. HISAT2 (version 2.2.1)
 7. SAMtools (version 1.21)
-8. Feature Counts (version 2.1.0)
+8. FeatureCounts (version 2.1.0)
 
 
