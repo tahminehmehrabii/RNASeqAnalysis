@@ -9,11 +9,14 @@ RNA-Seq analysis begins with the collection of raw data, typically consisting of
 ## 2: Quality Control: 
 Use tools like FastQC and MultiQC to assess the quality of raw sequencing data and summarize potential issues such as low-quality reads or adapter contamination.
 
-## 3: Read Alignment: Map RNA-Seq reads to a reference genome using HISAT2 with high accuracy and summarize alignment statistics using MultiQC to evaluate the efficiency and accuracy of the mapping process.
+## 3: Read Alignment: 
+Map RNA-Seq reads to a reference genome using HISAT2 with high accuracy and summarize alignment statistics using MultiQC to evaluate the efficiency and accuracy of the mapping process.
 
-## 4: Gene Annotation & Feature Counting: Incorporate genomic annotation data to link sequencing reads to known gene features and use FeatureCounts to quantify gene expression by counting reads mapped to exons and assigning them to corresponding gene IDs.
+## 4: Gene Annotation & Feature Counting: 
+Incorporate genomic annotation data to link sequencing reads to known gene features and use FeatureCounts to quantify gene expression by counting reads mapped to exons and assigning them to corresponding gene IDs.
 
-## 5: Gene Expression Data Processing: Ensuring high-quality, normalized data for downstream analyses like differential expression and pathway enrichment studies.
+## 5: Gene Expression Data Processing: 
+Ensuring high-quality, normalized data for downstream analyses like differential expression and pathway enrichment studies.
 
 # Required software
 
