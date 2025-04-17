@@ -10,3 +10,8 @@ do
 done
 
 echo "FastQC analysis complete. Results are in the $OUTPUT_DIR directory."
+
+# Summarize FastQC Results
+cd fastqc-results                                           
+pip install multiqc                                       
+multiqc.                                                       
