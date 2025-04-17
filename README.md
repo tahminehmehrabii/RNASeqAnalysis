@@ -18,7 +18,13 @@ Incorporate genomic annotation data to link sequencing reads to known gene featu
 ## 5: Gene Expression Data Processing: 
 Ensuring high-quality, normalized data for downstream analyses like differential expression and pathway enrichment studies.
 
-![Pipeline Summary](https://raw.githubusercontent.com/tahminehmehrabii/RNA-Seq-Analysis-of-Drug-Resistant-PANC1-Cells-on-Linux/main/RNASeq_PiPline%20_%20summary%20Of%20Codes.jpg)
+![Pipeline Step 1](https://raw.githubusercontent.com/tahminehmehrabii/RNA-Seq-Analysis-of-Drug-Resistant-PANC1-Cells-on-Linux/main/1.jpg)
+
+![Pipeline Step 2](https://raw.githubusercontent.com/tahminehmehrabii/RNA-Seq-Analysis-of-Drug-Resistant-PANC1-Cells-on-Linux/main/2.jpg)
+
+![Pipeline Step 3](https://raw.githubusercontent.com/tahminehmehrabii/RNA-Seq-Analysis-of-Drug-Resistant-PANC1-Cells-on-Linux/main/3.jpg)
+
+![Pipeline Step 4](https://raw.githubusercontent.com/tahminehmehrabii/RNA-Seq-Analysis-of-Drug-Resistant-PANC1-Cells-on-Linux/main/4.jpg)
 
 # Required software
 
