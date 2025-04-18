@@ -18,7 +18,6 @@ Incorporate genomic annotation data to link sequencing reads to known gene featu
 ## 5: Gene Expression Data Processing: 
 Ensuring high-quality, normalized data for downstream analyses like differential expression and pathway enrichment studies.
 
-![FastQC report](myimage.png)
 
 
 # Required software
