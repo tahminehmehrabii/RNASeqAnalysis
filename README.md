@@ -18,6 +18,11 @@ Incorporate genomic annotation data to link sequencing reads to known gene featu
 ## 5: Gene Expression Data Processing: 
 Ensuring high-quality, normalized data for downstream analyses like differential expression and pathway enrichment studies.
 
+## 🧬 RNA-Seq Analysis Pipeline
+
+This figure illustrates the overall pipeline used to analyze RNA-seq data for differential gene expression between oxaliplatin-resistant and untreated PANC1 cells.
+
+![RNA-Seq Pipeline](RNASeqPiPline.jpg)
 
 
 # Required software
