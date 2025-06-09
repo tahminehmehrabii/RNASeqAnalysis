@@ -22,7 +22,7 @@ Ensuring high-quality, normalized data for downstream analyses like differential
 
 This figure illustrates the overall pipeline used to analyze RNA-seq data for differential gene expression between oxaliplatin-resistant and untreated PANC1 cells.
 
-![RNA-Seq Pipeline](figures/RNASeqPiPline.jpg)
+![PANC1 RNA-Seq](images/PANC1_RNASeq_Linux.png)
 
 
 # Required software
