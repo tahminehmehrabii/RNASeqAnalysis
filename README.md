@@ -2,6 +2,9 @@
 
 To identify differentially expressed genes and potential biomarkers associated with oxaliplatin resistance in PANC1 cells using RNA-seq analysis.
 
+# workflow
+![RNA-Seq Analysis of Oxaliplatin-Resistant PANC1 Cells](images/workflow.png)
+
 
 # Required software
 
