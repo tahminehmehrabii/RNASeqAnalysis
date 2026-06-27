@@ -1,29 +1,6 @@
 # RNA-Seq Analysis of Oxaliplatin-Resistant PANC1 Cells
 
-Differential gene expression in oxaliplatin-resistant versus untreated PANC1 cells was also analyzed to identify potential biomarkers associated with drug resistance. This RNA-Seq pipeline is designed to process, analyze, and quantify gene expression data efficiently. The key objectives of this pipeline are as follows:
-
-
-## 1: Data Collection:
-RNA-Seq analysis begins with the collection of raw data, typically consisting of FASTQ files that contain sequencing reads obtained from RNA samples.
-
-## 2: Quality Control: 
-Use tools like FastQC and MultiQC to assess the quality of raw sequencing data and summarize potential issues such as low-quality reads or adapter contamination.
-
-## 3: Read Alignment: 
-Map RNA-Seq reads to a reference genome using HISAT2 with high accuracy and summarize alignment statistics using MultiQC to evaluate the efficiency and accuracy of the mapping process.
-
-## 4: Gene Annotation & Feature Counting: 
-Incorporate genomic annotation data to link sequencing reads to known gene features and use FeatureCounts to quantify gene expression by counting reads mapped to exons and assigning them to corresponding gene IDs.
-
-## 5: Gene Expression Data Processing: 
-Ensuring high-quality, normalized data for downstream analyses like differential expression and pathway enrichment studies.
-
-## 🧬 RNA-Seq Analysis Pipeline
-
-This figure illustrates the overall pipeline used to analyze RNA-seq data for differential gene expression between oxaliplatin-resistant and untreated PANC1 cells.
-
-
-![RNASeqAnalysis](images/RNASeqAnalysis.png)
+To identify differentially expressed genes and potential biomarkers associated with oxaliplatin resistance in PANC1 cells using RNA-seq analysis.
 
 
 # Required software
