@@ -5,7 +5,6 @@ To identify differentially expressed genes and potential biomarkers associated w
 # workflow
 ![RNA-Seq Analysis of Oxaliplatin-Resistant PANC1 Cells](images/workflow.png)
 
-
 # Required software
 
 1. Ubuntu (version 2)
